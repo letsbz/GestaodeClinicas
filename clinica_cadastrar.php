@@ -234,16 +234,6 @@ function mascaraTelefone(campo) {
                         </div>
                     </div>
                 </div>
-                <div class="exames-duas-colunas mt-4">
-                    <div class="exames-section">
-                        <h3>Exames Clínicos Selecionados</h3>
-                        <div id="valores-exames-clinicos"></div>
-                    </div>
-                    <div class="exames-section">
-                        <h3>Exames Complementares Selecionados</h3>
-                        <div id="valores-exames-complementares"></div>
-                    </div>
-                </div>
                 <div class="actions">
                     <button type="submit" class="btn btn-primary">Cadastrar Clínica</button>
                 </div>
