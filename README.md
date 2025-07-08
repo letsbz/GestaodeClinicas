@@ -8,7 +8,6 @@ Sistema web para gerenciamento de clínicas, exames, usuários e empresas, desen
 - Gerenciamento de exames (inclusão, atualização de valores, ocultação)
 - Cadastro e edição de usuários
 - Autenticação de usuários (login/logout)
-- Gerenciamento de empresas associadas
 - Interface personalizável via arquivo de configuração
 
 ## Tecnologias Utilizadas
@@ -22,7 +21,7 @@ Sistema web para gerenciamento de clínicas, exames, usuários e empresas, desen
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/GestaoClinicas.git
+   git clone https://github.com/letsbz/GestaodeClinicas
    cd GestaoClinicas
    ```
 
